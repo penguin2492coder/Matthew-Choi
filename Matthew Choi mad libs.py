@@ -1,0 +1,6 @@
+verb=input("enter a verb:")
+place=input("enter a place:")
+print("Lacrosse is the best at " +place+ "because you can" +verb+ "things.")
+print("that was funny!")
+name=input("my name is joe, what is yours?")
+print("hi" +name+)
